@@ -5,9 +5,7 @@ const sizes = getSizes()
 document.addEventListener(
     "change",
     (event) => {
-        if (event.target.name === "size") {
-            window.alert(``)
-        }
+        
     }
 )
 
