@@ -11,7 +11,6 @@ document.addEventListener(
     }
 )
 
-
 export const Metals = () => {
     let html = "<ul>"
 
